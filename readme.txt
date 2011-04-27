@@ -1,3 +1,2 @@
 Modified
-Practicing Git private repositorie
-Modified agaiNAi
+Practicing Git private repositories
